@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\01_PartyPlanner_Basic\\PartyPlanner.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\01_PartyPlanner_Basic\\PartyPlanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\01_PartyPlanner_Basic\\PartyPlanner.csproj",
+        "projectName": "PartyPlanner",
+        "projectPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\01_PartyPlanner_Basic\\PartyPlanner.csproj",
+        "packagesPath": "C:\\Users\\felih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\01_PartyPlanner_Basic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\felih\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

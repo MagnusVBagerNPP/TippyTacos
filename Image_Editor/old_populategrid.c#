@@ -1,0 +1,75 @@
+/*grid.Children.Clear(); // Clear old buttons
+            grid.ColumnDefinitions.Clear(); // Clear old columns
+            grid.RowDefinitions.Clear(); // Clear old rows
+
+            // Update grid size
+            btnGrid = new Button[grid_cols, grid_rows];
+
+            // Define new columns and rows
+
+            for (int i = 0; i < grid_cols; i++)
+            {
+                grid.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+            }
+
+            for (int j = 0; j < grid_rows; j++)
+                grid.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+
+            //define button size
+            button_size = Math.Min(max_grid_width / grid_rows, max_grid_height / grid_cols);
+
+            // Add new buttons
+            for (int i = 0; i < grid_cols; i++)
+            {
+                for (int j = 0; j < grid_rows; j++)
+                {
+                    btnGrid[i, j] = new Button
+                    {
+                        Background = Brushes.Gray,
+                        HorizontalAlignment = HorizontalAlignment.Center,
+                        VerticalAlignment = VerticalAlignment.Center,
+                        Width = button_size,
+                        Height = button_size,
+                        BorderThickness = new Thickness(0.05 * button_size),
+                    };
+
+                    btnGrid[i, j].Click += Grid_Button_Click;
+
+                    Grid.SetColumn(btnGrid[i, j], i);
+                    Grid.SetRow(btnGrid[i, j], j);
+
+                    grid.Children.Add(btnGrid[i, j]);
+                }
+            }
+            Console.WriteLine($@"{button_size * grid_cols}");*/
+
+
+            ----------
+            var uniformGrid = new UniformGrid
+            {
+                Rows = grid_rows,
+                Columns = grid_cols,
+                HorizontalAlignment = HorizontalAlignment.Center,
+                VerticalAlignment = VerticalAlignment.Center,
+            };
+            // define button size
+            button_size = Math.Min(max_grid_width / grid_rows, max_grid_height / grid_cols);
+            // Add buttons to the uniform grid
+           
+            for (int i = 0; i < grid_cols * grid_rows; i++)
+            {
+                uniformGrid.Children.Add(
+                    new Button
+                    {
+                        Background = Brushes.Gray,
+                        Width = button_size,
+                        Height = button_size,
+                        BorderThickness = new Thickness(0.05 * button_size),
+                    }
+
+                );
+            }
+
+            // Add `uniformGrid` to `grid`
+            grid.Children.Clear();
+            grid.Children.Add(uniformGrid);
