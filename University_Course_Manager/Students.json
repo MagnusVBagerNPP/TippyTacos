@@ -1,0 +1,27 @@
+[
+  {
+    "ID": "ff6aa1fa-9268-4fba-a8f6-eab7a7fd4969",
+    "firstName": "Hannes",
+    "lastName": "Peter"
+  },
+  {
+    "ID": "be7961ad-cf93-4b48-9ff6-c78105bafeec",
+    "firstName": "Magnus",
+    "lastName": "Bager"
+  },
+  {
+    "ID": "62faaf28-fbed-420f-b2d6-95a4e9ac009e",
+    "firstName": "Vivien",
+    "lastName": "Wegener"
+  },
+  {
+    "ID": "9ad65410-3c3d-4c4c-aecc-e3760f1ea96a",
+    "firstName": "Jonas",
+    "lastName": "Wild"
+  },
+  {
+    "ID": "8fb41885-370b-4a63-9c1f-c980c7c085cb",
+    "firstName": "Hanna",
+    "lastName": "Schuster"
+  }
+]
