@@ -1,0 +1,86 @@
+<UserControl 
+
+            x:Class="University_Course_Manager.Views.LoginWindow"
+            xmlns="https://github.com/avaloniaui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="clr-namespace:University_Course_Manager.ViewModels">
+    <UserControl.DataContext>
+        <vm:LoginWindowViewModel/>
+    </UserControl.DataContext>
+<Design.DataContext>
+        <!--
+            This only sets the DataContext for the previewer in an IDE,
+            to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs)
+        -->
+        <vm:LoginWindowViewModel />
+    </Design.DataContext>
+<Panel>
+        <ExperimentalAcrylicBorder>
+            <ExperimentalAcrylicBorder.Material>
+                <ExperimentalAcrylicMaterial BackgroundSource="Digger" />
+            </ExperimentalAcrylicBorder.Material>
+        </ExperimentalAcrylicBorder>
+        <Image
+            Opacity="0.5"
+            Source="/Assets/SFITBackground.png"
+            Stretch="UniformToFill" />
+        <StackPanel
+            Width="600"
+            Margin="20"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+            <TextBlock
+                Grid.Row="1"
+                Grid.Column="1"
+                Margin="0,20"
+                HorizontalAlignment="Center"
+                FontSize="32"
+                Foreground="White"
+                Text="San Fransokyo Institute of Technology Course Management App"
+                TextAlignment="Center"
+                TextWrapping="Wrap" />
+            <Image
+                Width="156"
+                Height="156"
+                Margin="20"
+                Source="avares://University_Course_Manager/Assets/sfit.png" />
+            <StackPanel Width="400">
+                <TextBlock
+                    Margin="0,5"
+                    FontWeight="Bold"
+                    Foreground="White"
+                    Text="Username" />
+                <TextBox
+                    Height="40"
+                    Margin="0,5"
+                    Background="#F5F5F7"
+                    Text="{Binding UserName}"
+                    Watermark="Enter your Username" />
+
+                <TextBlock
+                    FontWeight="Bold"
+                    Foreground="White"
+                    Text="Password" />
+                <TextBox
+                    Height="40"
+                    Margin="0,5"
+                    Background="#F5F5F7"
+                    PasswordChar="*"
+                    Text="{Binding Password}"
+                    Watermark="Enter your Password" />
+                <Button
+                    Height="40"
+                    Margin="0,5"
+                    HorizontalAlignment="Stretch"
+                    HorizontalContentAlignment="Center"
+                    VerticalContentAlignment="Center"
+                    Background="#007ACC"
+                    Command="{Binding LoginCommand}"
+                    Content="Login"
+                    Foreground="#F5F5F7" />
+            </StackPanel>
+        </StackPanel>
+    </Panel>
+</UserControl>

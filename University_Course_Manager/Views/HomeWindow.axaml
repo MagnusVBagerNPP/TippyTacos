@@ -1,0 +1,9 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui" xmlns:vm="clr-namespace:University_Course_Manager.ViewModels;assembly=University_Course_Manager.ViewModels">
+    <UserControl.DataContext>
+        <vm:HomeWindowViewModel />
+
+    </UserControl.DataContext>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock FontSize="20" Text="Welcome to Home Page!" />
+    </StackPanel>
+</UserControl>
