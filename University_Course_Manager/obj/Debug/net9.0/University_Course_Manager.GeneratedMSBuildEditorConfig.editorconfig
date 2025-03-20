@@ -24,5 +24,14 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/Mvb00/OneDrive/Dokumenter/AOOP/TippyTacos/University_Course_Manager/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/Mvb00/OneDrive/Dokumenter/AOOP/TippyTacos/University_Course_Manager/Styles/appDefaultStyles.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Mvb00/OneDrive/Dokumenter/AOOP/TippyTacos/University_Course_Manager/Views/HomeWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Mvb00/OneDrive/Dokumenter/AOOP/TippyTacos/University_Course_Manager/Views/LoginWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/Mvb00/OneDrive/Dokumenter/AOOP/TippyTacos/University_Course_Manager/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
