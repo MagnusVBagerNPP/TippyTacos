@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
+using CommunityToolkit.Mvvm.ComponentModel;
+using CommunityToolkit.Mvvm.Input;
 
 namespace University_Course_Manager.ViewModels
 {
@@ -14,9 +16,9 @@ namespace University_Course_Manager.ViewModels
         private string? _password;
 
 
-        private readonly Action _onLoginSuccess;
+        private readonly Action<string> _onLoginSuccess;
 
-        public LoginWindowViewModel(Action onLoginSuccess)
+        public LoginWindowViewModel(Action<string> onLoginSuccess)
         {
             _onLoginSuccess = onLoginSuccess;
         }
@@ -24,9 +26,12 @@ namespace University_Course_Manager.ViewModels
         [RelayCommand(CanExecute = nameof(CanLogin))]
         private async Task Login()
         {
-            if (UserName == "admin" && Password == "password") // Simulated auth
+            if (UserName == "teacher" && Password == "password") // Simulated auth
             {
-                _onLoginSuccess?.Invoke();
+                _onLoginSuccess?.Invoke("Teacher");
+            } else if (UserName == "student" && Password == "password")
+            {
+                _onLoginSuccess?.Invoke("Student");
             }
         }
 

@@ -1,22 +1,12 @@
-<UserControl 
-
-            x:Class="University_Course_Manager.Views.LoginWindow"
-            xmlns="https://github.com/avaloniaui"
-            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:vm="clr-namespace:University_Course_Manager.ViewModels">
-    <UserControl.DataContext>
-        <vm:LoginWindowViewModel/>
-    </UserControl.DataContext>
-<Design.DataContext>
-        <!--
-            This only sets the DataContext for the previewer in an IDE,
-            to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs)
-        -->
-        <vm:LoginWindowViewModel />
-    </Design.DataContext>
-<Panel>
+<UserControl
+    x:Class="University_Course_Manager.Views.LoginWindow"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:University_Course_Manager.ViewModels"
+    x:DataType="vm:LoginWindowViewModel">
+    <Panel>
         <ExperimentalAcrylicBorder>
             <ExperimentalAcrylicBorder.Material>
                 <ExperimentalAcrylicMaterial BackgroundSource="Digger" />
