@@ -17,10 +17,10 @@ namespace University_Course_Manager.ViewModels
         public ObservableCollection<string> AvailableColors { get; }
 
 
-        private readonly int _teacherId;
+        private readonly string _teacherId;
         private readonly Action<Subject> _onSubjectCreated;
 
-        public CreateSubjectViewModel(int teacherId, Action<Subject> onSubjectCreated)
+        public CreateSubjectViewModel(string teacherId, Action<Subject> onSubjectCreated)
         {
             _onSubjectCreated = onSubjectCreated;
             _teacherId = teacherId;

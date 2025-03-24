@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj": {}
+    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj": {
+    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj",
+        "projectUniqueName": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj",
         "projectName": "University_Course_Manager",
-        "projectPath": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj",
-        "packagesPath": "C:\\Users\\Magnus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\obj\\",
+        "projectPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\TippyTacos\\University_Course_Manager\\University_Course_Manager.csproj",
+        "packagesPath": "C:\\Users\\felih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\TippyTacos\\University_Course_Manager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Magnus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\felih\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,6 +67,10 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.1, )"
+            },
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -92,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

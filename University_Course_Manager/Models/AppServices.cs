@@ -21,6 +21,11 @@ public class AppServices
         SubjectsDb = new JsonDatabase<Subject>("../Subjects.json");
         TeachersDb = new JsonDatabase<Teacher>("../Teachers.json");
         StudentsDb = new JsonDatabase<Student>("../Students.json");
-        Session = new UserSession("0", "0", "0");
+        Session = new UserSession{
+            Id =    "0",
+            DisplayName= "0",
+            Role ="0"
+
+        };
     }
 }

@@ -19,9 +19,9 @@ namespace University_Course_Manager.ViewModels
 
             TaughtSubjectsList = new ObservableCollection<Subject>
             {
-                new Subject("Thermodynamics", "About Energy...", "#D61C22", 1),
-                new Subject("Robotics", "Ai","#D61C22", 1),
-                new Subject("Poetry", "yappa yappa...", "#D61C22", 1)
+                new Subject("Thermodynamics", "About Energy...", "#D61C22", "2"),
+                new Subject("Robotics", "Ai","#D61C22", "1"),
+                new Subject("Poetry", "yappa yappa...", "#D61C22", "2")
             };
         }
 

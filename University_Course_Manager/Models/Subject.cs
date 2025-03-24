@@ -8,25 +8,25 @@ namespace University_Course_Manager.Models;
 
 public class Subject
 {
-    public int Id { get; set; }
+    public string Id { get; set; }
     public string Name { get; set; }
     public string Description { get; set; }
     public string Color { get; set; }
-    public int TeacherId { get; set; }
+    public string TeacherId { get; set; }
 
     public string TeacherInfo {get; set; }
 
-public List<int> StudentsEnrolled { get; set; } = new List<int>();
+public List<string> StudentsEnrolled { get; set; } = new List<string>();
 
 
-    public Subject(string name, string description, string color, int teacherId)
+    public Subject(string name, string description, string color, string teacherId)
     {
         Name = name;
         Description = description;
         Color = color;
         TeacherId = teacherId;
     }
-    public void EnrollStudent(int studentId)
+    public void EnrollStudent(string studentId)
     {
         if (!StudentsEnrolled.Contains(studentId))
         {
@@ -35,7 +35,7 @@ public List<int> StudentsEnrolled { get; set; } = new List<int>();
         }
     }
 
-    public void DropStudent(int studentId)
+    public void DropStudent(string studentId)
     {
         if (StudentsEnrolled.Contains(studentId))
         {

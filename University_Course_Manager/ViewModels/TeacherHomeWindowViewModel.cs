@@ -20,7 +20,7 @@ namespace University_Course_Manager.ViewModels
 
         private EnrolledSubjectsViewModel _enrolledVM;
 
-        int teacherId = 1;
+        string teacherId = "1";
         public TeacherHomeWindowViewModel()
         {
             _viewsTeacher = new Dictionary<string, UserControl>
