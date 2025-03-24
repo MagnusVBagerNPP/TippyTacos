@@ -1,0 +1,74 @@
+[
+  {
+    "Id": "b3ef0c48-60af-4d25-85a2-786bc275acfb",
+    "Name": "Thermodynamics",
+    "Description": "We build coolers and shit",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "faec4730-35e3-4fab-a357-7868bdfc33dc",
+    "Name": "Biology",
+    "Description": "We created a new app",
+    "Color": "#fefa55",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "3bd6209f-cf1e-4caf-b34b-c928aea9be5b",
+    "Name": "Physics",
+    "Description": "Up and down",
+    "Color": "#f0f0f0",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "d2e4ba69-6510-4116-ad3a-764b8d743c0d",
+    "Name": "Test",
+    "Description": "123",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "cb329216-5500-4f48-b0bf-e9a97b843070",
+    "Name": "Testsada",
+    "Description": "asdasd",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "243e84cb-c925-4c70-975f-d9f417c4f072",
+    "Name": "Testasdasd",
+    "Description": "sdasdas",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "e5d93978-b5b8-4a1b-95b3-0ca4b4b655aa",
+    "Name": "test",
+    "Description": "1232131",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "f3bd9d42-016b-4f70-bab0-4a00067b1f28",
+    "Name": "testhg",
+    "Description": "dfdfsdf",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  },
+  {
+    "Id": "a0f425b9-0d94-49ab-9b1b-398d7d893e3d",
+    "Name": "New Course",
+    "Description": "asdasd",
+    "Color": "#ff90ee",
+    "TeacherId": "0",
+    "StudentIds": []
+  }
+]

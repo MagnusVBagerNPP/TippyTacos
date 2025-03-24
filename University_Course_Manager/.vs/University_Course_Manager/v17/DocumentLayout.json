@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\jsondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\jsondatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\taughtsubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\taughtsubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\createsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\createsubjectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\browsesubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\browsesubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\s_t_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\s_t_interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\appservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\appservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\teacherhomewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\teacherhomewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\enrolledsubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\enrolledsubjectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\views\\studenthomewindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -23,40 +75,16 @@
       "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:views\\taughtsubjects.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\teacherhomewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\teacherhomewindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\loginwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\views\\loginwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:views\\loginwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\views\\subjectdetail.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:views\\subjectdetail.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|c:\\users\\magnus\\documents\\aoop\\tippytacos\\university_course_manager\\views\\browsesubjects.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{779DF4E3-153A-466A-A9B0-E715EF6B60A6}|University_Course_Manager.csproj|solutionrelative:views\\browsesubjects.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,20 +102,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
+              "DocumentIndex": 0,
+              "Title": "Teachers.json",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Teachers.json",
+              "RelativeDocumentMoniker": "Teachers.json",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Teachers.json",
+              "RelativeToolTip": "Teachers.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:27:01.858Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T08:24:01.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
+              "Title": "LoginWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\LoginWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\LoginWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginWindowViewModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:25:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSubjectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\CreateSubjectViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CreateSubjectViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\CreateSubjectViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CreateSubjectViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:03:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrowseSubjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\BrowseSubjectsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BrowseSubjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\BrowseSubjectsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BrowseSubjectsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:02:38.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:43:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:42:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "S_T_Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\S_T_Interface.cs",
+              "RelativeDocumentMoniker": "Models\\S_T_Interface.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\S_T_Interface.cs",
+              "RelativeToolTip": "Models\\S_T_Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:33:52.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\JsonDatabase.cs",
+              "RelativeDocumentMoniker": "Models\\JsonDatabase.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\JsonDatabase.cs",
+              "RelativeToolTip": "Models\\JsonDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:27:04.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UserSession.cs",
               "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\UserSession.cs",
               "RelativeDocumentMoniker": "Models\\UserSession.cs",
@@ -100,43 +219,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.axaml",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\App.axaml",
-              "RelativeDocumentMoniker": "App.axaml",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\App.axaml",
-              "RelativeToolTip": "App.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T23:23:16.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaughtSubjects.axaml",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\TaughtSubjects.axaml",
-              "RelativeDocumentMoniker": "Views\\TaughtSubjects.axaml",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\TaughtSubjects.axaml",
-              "RelativeToolTip": "Views\\TaughtSubjects.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T23:22:16.22Z",
+              "DocumentIndex": 13,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:08:54.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "LoginWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\LoginWindow.axaml",
-              "RelativeDocumentMoniker": "Views\\LoginWindow.axaml",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\LoginWindow.axaml",
-              "RelativeToolTip": "Views\\LoginWindow.axaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T23:20:17.785Z",
+              "Title": "TeacherHomeWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TeacherHomeWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TeacherHomeWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TeacherHomeWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TeacherHomeWindowViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:41:47.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TaughtSubjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TaughtSubjectsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TaughtSubjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TaughtSubjectsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TaughtSubjectsViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:07:18.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:10:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppServices.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\AppServices.cs",
+              "RelativeDocumentMoniker": "Models\\AppServices.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Models\\AppServices.cs",
+              "RelativeToolTip": "Models\\AppServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:31:30.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnrolledSubjectsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\EnrolledSubjectsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EnrolledSubjectsViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\EnrolledSubjectsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EnrolledSubjectsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:36:26.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:25:06.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "StudentHomeWindow.axaml",
               "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\StudentHomeWindow.axaml",
               "RelativeDocumentMoniker": "Views\\StudentHomeWindow.axaml",
@@ -148,70 +322,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\MainWindow.axaml",
-              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "DocumentIndex": 19,
+              "Title": "LoginWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\LoginWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.axaml",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\LoginWindow.axaml",
+              "RelativeToolTip": "Views\\LoginWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T23:09:13.604Z",
+              "WhenOpened": "2025-03-23T23:20:17.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BrowseSubjects.axaml",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\BrowseSubjects.axaml",
-              "RelativeDocumentMoniker": "Views\\BrowseSubjects.axaml",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\BrowseSubjects.axaml",
-              "RelativeToolTip": "Views\\BrowseSubjects.axaml",
+              "DocumentIndex": 17,
+              "Title": "TaughtSubjects.axaml",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\TaughtSubjects.axaml",
+              "RelativeDocumentMoniker": "Views\\TaughtSubjects.axaml",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\TaughtSubjects.axaml",
+              "RelativeToolTip": "Views\\TaughtSubjects.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-23T23:08:59.045Z",
+              "WhenOpened": "2025-03-23T23:22:16.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:08:54.34Z",
+              "DocumentIndex": 18,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T23:23:16.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaughtSubjectsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TaughtSubjectsViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\TaughtSubjectsViewModel.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TaughtSubjectsViewModel.cs",
-              "RelativeToolTip": "ViewModels\\TaughtSubjectsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:51:06.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TeacherHomeWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TeacherHomeWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\TeacherHomeWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\TeacherHomeWindowViewModel.cs",
-              "RelativeToolTip": "ViewModels\\TeacherHomeWindowViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:41:47.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "SubjectDetail.axaml",
               "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\Views\\SubjectDetail.axaml",
               "RelativeDocumentMoniker": "Views\\SubjectDetail.axaml",
@@ -219,53 +366,6 @@
               "RelativeToolTip": "Views\\SubjectDetail.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-23T22:53:47.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:25:06.134Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "fa211c7e-285c-4cc6-9905-84071ecd2676",
-        "Display": 2,
-        "X": 616,
-        "Y": 7,
-        "Width": 2193,
-        "Height": 1144,
-        "WindowState": 2
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\LoginWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Magnus\\Documents\\AOOP\\TippyTacos\\University_Course_Manager\\ViewModels\\LoginWindowViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:25:31.271Z",
               "EditorCaption": ""
             }
           ]
