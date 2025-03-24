@@ -1,0 +1,57 @@
+<UserControl
+    x:Class="University_Course_Manager.Views.BrowseSubjects"
+    xmlns="https://github.com/avaloniaui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="using:University_Course_Manager.ViewModels"
+    x:Name="Root"
+    d:DesignHeight="450"
+    d:DesignWidth="800"
+    x:CompileBindings="True"
+    x:DataType="vm:BrowseSubjectsViewModel"
+    mc:Ignorable="d">
+    <ScrollViewer Padding="20">
+        <StackPanel>
+            <TextBlock
+                Margin="40,50,0,0"
+                FontSize="24"
+                Foreground="#222222"
+                Text="Enroll Courses" />
+            <TextBlock
+                Margin="40,0,0,0"
+                FontSize="14"
+                Foreground="#555555"
+                Text="Learn more today" />
+            <!--  Course Grid  -->
+            <ItemsControl Margin="40,10,50,30" ItemsSource="{Binding BrowseSubjectsList}">
+
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border
+                            Margin="0,8"
+                            Padding="16"
+                            Background="#f5f5f5"
+                            CornerRadius="10">
+                            <StackPanel Spacing="8">
+                                <TextBlock
+                                    FontSize="18"
+                                    FontWeight="Bold"
+                                    Text="{Binding Name}" />
+                                <TextBlock
+                                    FontSize="14"
+                                    Foreground="Gray"
+                                    Text="{Binding TeacherId}" />
+                                <Button
+                                    Width="180"
+                                    Command="{Binding $parent[ItemsControl].((vm:BrowseSubjectsViewModel)DataContext).SelectSubjectCommand}"
+                                    CommandParameter="{Binding}"
+                                    Content="Read about the course" />
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </StackPanel>
+    </ScrollViewer>
+</UserControl>

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\ImageEditor\\ImageEditor.csproj": {}
+    "c:\\Users\\Mvb00\\OneDrive\\Dokumenter\\AOOP\\TippyTacos\\Image_Editor\\ImageEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\ImageEditor\\ImageEditor.csproj": {
+    "c:\\Users\\Mvb00\\OneDrive\\Dokumenter\\AOOP\\TippyTacos\\Image_Editor\\ImageEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\ImageEditor\\ImageEditor.csproj",
+        "projectUniqueName": "c:\\Users\\Mvb00\\OneDrive\\Dokumenter\\AOOP\\TippyTacos\\Image_Editor\\ImageEditor.csproj",
         "projectName": "ImageEditor",
-        "projectPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\ImageEditor\\ImageEditor.csproj",
-        "packagesPath": "C:\\Users\\felih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felih\\OneDrive\\Uni\\6. Semester Felix Leo Hoch 25\\Advanced Object-Oriented Programming\\Assignments\\AOOPHW1\\ImageEditor\\obj\\",
+        "projectPath": "c:\\Users\\Mvb00\\OneDrive\\Dokumenter\\AOOP\\TippyTacos\\Image_Editor\\ImageEditor.csproj",
+        "packagesPath": "C:\\Users\\Mvb00\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Mvb00\\OneDrive\\Dokumenter\\AOOP\\TippyTacos\\Image_Editor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\felih\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mvb00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -46,15 +48,15 @@
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[11.2.3, )"
+              "version": "[11.2.5, )"
             },
             "Avalonia.Desktop": {
               "target": "Package",
-              "version": "[11.2.3, )"
+              "version": "[11.2.5, )"
             },
             "Avalonia.Themes.Fluent": {
               "target": "Package",
-              "version": "[11.2.3, )"
+              "version": "[11.2.5, )"
             },
             "MessageBox.Avalonia": {
               "target": "Package",
@@ -77,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
