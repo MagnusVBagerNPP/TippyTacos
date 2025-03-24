@@ -1,0 +1,19 @@
+[
+  {
+    "ID": "fd536167-7797-49c9-9842-d6869d5705ed",
+    "Title": "Math2",
+    "TeacherID": "84aa31b6-aea3-44ff-a77d-9af78144da1c",
+    "StudentIDs": [
+      "ff6aa1fa-9268-4fba-a8f6-eab7a7fd4969"
+    ]
+  },
+  {
+    "ID": "ef2cdc5f-e8dc-46f1-bb58-2c58c6ba7936",
+    "Title": "Science",
+    "TeacherID": "be7961ad-cf93-4b48-9ff6-c78105bafeec",
+    "StudentIDs": [
+      "9ad65410-3c3d-4c4c-aecc-e3760f1ea96a",
+      "8fb41885-370b-4a63-9c1f-c980c7c085cb"
+    ]
+  }
+]
